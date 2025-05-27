@@ -1,0 +1,77 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "e4618c597f7071578781f4a2bee8954b9946e165ea23b4db339dcd588fce83f6",
+    "telemetry.devDeviceId": "a50344db-7000-475c-956b-cabb32cc089f",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/fern"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/fern": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#222222",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(212, 212, 212, 0.6)",
+            "background": "#222222",
+            "editorBackground": "#222222",
+            "titleBarBackground": "#222222",
+            "titleBarBorder": "#222222",
+            "activityBarBackground": "#222222",
+            "activityBarBorder": "#222222",
+            "sideBarBackground": "#222222",
+            "sideBarBorder": "#222222",
+            "statusBarBackground": "#222222",
+            "statusBarBorder": "#222222",
+            "statusBarNoFolderBackground": "#292929"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "e9e4896727d246c784499f7138eae34e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/fern",
+            "backupPath": "/home/fern/.config/Code - OSS/Backups/cf1c75990b796169d186d2c7cc7a3924",
+            "uiState": {
+                "mode": 0,
+                "x": 16,
+                "y": 51,
+                "width": 1888,
+                "height": 1013
+            }
+        },
+        "openedWindows": []
+    }
+}
