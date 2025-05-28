@@ -14,7 +14,7 @@
 fonts: Jetsbrainsmono nerd fonts, roboto-condensed, font-awesome.
 
 #### Polybar is modified to work with pywal from
-[BIBJAW Final_Rice]((https://github.com/BIBJAW/Final_Rice/tree/main).
+[BIBJAW Final_Rice](https://github.com/BIBJAW/Final_Rice/tree/main).
 
 
 ## Pywal Changes
