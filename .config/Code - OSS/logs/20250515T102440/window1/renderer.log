@@ -1,6 +1,0 @@
-2025-05-15 10:24:41.631 [info] Started local extension host with pid 9573.
-2025-05-15 10:24:41.660 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fern/.vscode-oss/extensions
-2025-05-15 10:24:41.751 [info] ComputeTargetPlatform: linux-x64
-2025-05-15 10:24:41.788 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fern/.vscode-oss/extensions
-2025-05-15 10:24:41.789 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2025-05-15 10:24:44.536 [info] [perf] Render performance baseline is 20ms

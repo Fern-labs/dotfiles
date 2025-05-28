@@ -1,9 +1,0 @@
-2025-05-15 16:37:02.155 [info] Started local extension host with pid 3972.
-2025-05-15 16:37:02.378 [info] ComputeTargetPlatform: linux-x64
-2025-05-15 16:37:04.923 [info] [perf] Render performance baseline is 19ms
-2025-05-15 16:37:28.122 [error] SignatureVerificationInternal: Signature verification was not executed.
-    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
-    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
-2025-05-15 16:37:28.130 [error] Signature verification was not executed.: SignatureVerificationInternal: Signature verification was not executed.
-    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
-    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
